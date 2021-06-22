@@ -1,0 +1,15 @@
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/console/fbcon.ko
+kernel/drivers/video/console/bitblit.ko
+kernel/drivers/video/console/softcursor.ko
+kernel/drivers/video/fbdev/bcm2708_fb.ko
+kernel/drivers/video/fbdev/core/fb.ko
+kernel/drivers/video/fbdev/core/cfbfillrect.ko
+kernel/drivers/video/fbdev/core/cfbcopyarea.ko
+kernel/drivers/video/fbdev/core/cfbimgblt.ko
+kernel/drivers/video/fbdev/core/sysfillrect.ko
+kernel/drivers/video/fbdev/core/syscopyarea.ko
+kernel/drivers/video/fbdev/core/sysimgblt.ko
+kernel/drivers/video/fbdev/core/fb_sys_fops.ko
+kernel/drivers/video/gen4-hats/spi-bcm2835_dma.ko
+kernel/drivers/video/gen4-hats/4d-hats.ko

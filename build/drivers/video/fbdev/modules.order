@@ -1,0 +1,3 @@
+kernel/drivers/video/fbdev/udlfb.ko
+kernel/drivers/video/fbdev/ssd1307fb.ko
+kernel/drivers/video/fbdev/rpisense-fb.ko

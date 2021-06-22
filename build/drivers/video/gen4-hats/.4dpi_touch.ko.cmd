@@ -1,0 +1,1 @@
+cmd_drivers/video/gen4-hats/4dpi_touch.ko := arm-linux-gnueabihf-ld -EL -r  -T ../scripts/module-common.lds --build-id  -o drivers/video/gen4-hats/4dpi_touch.ko drivers/video/gen4-hats/4dpi_touch.o drivers/video/gen4-hats/4dpi_touch.mod.o ;  true

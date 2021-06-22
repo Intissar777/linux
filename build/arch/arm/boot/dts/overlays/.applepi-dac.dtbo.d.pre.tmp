@@ -1,0 +1,2 @@
+applepi-dac-overlay.o: \
+ ../arch/arm/boot/dts/overlays/applepi-dac-overlay.dts

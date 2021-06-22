@@ -1,0 +1,1 @@
+cmd_drivers/video/gen4-hats/pwmbl.ko := arm-linux-gnueabihf-ld -EL -r  -T ../scripts/module-common.lds --build-id  -o drivers/video/gen4-hats/pwmbl.ko drivers/video/gen4-hats/pwmbl.o drivers/video/gen4-hats/pwmbl.mod.o ;  true

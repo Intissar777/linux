@@ -1,0 +1,9 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/video/backlight/gpio_backlight.ko
+kernel/drivers/video/backlight/rpi_backlight.ko
+kernel/drivers/video/fbdev/udlfb.ko
+kernel/drivers/video/fbdev/ssd1307fb.ko
+kernel/drivers/video/fbdev/rpisense-fb.ko
+kernel/drivers/video/gen4-hats/4dpi_touch.ko
+kernel/drivers/video/gen4-hats/ar1020-i2c.ko
+kernel/drivers/video/gen4-hats/pwmbl.ko

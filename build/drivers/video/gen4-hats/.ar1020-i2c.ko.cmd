@@ -1,0 +1,1 @@
+cmd_drivers/video/gen4-hats/ar1020-i2c.ko := arm-linux-gnueabihf-ld -EL -r  -T ../scripts/module-common.lds --build-id  -o drivers/video/gen4-hats/ar1020-i2c.ko drivers/video/gen4-hats/ar1020-i2c.o drivers/video/gen4-hats/ar1020-i2c.mod.o ;  true

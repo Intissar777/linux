@@ -1,0 +1,1 @@
+cmd_drivers/i2c/busses/i2c-robotfuzz-osif.ko := arm-linux-gnueabihf-ld -EL -r  -T ../scripts/module-common.lds --build-id  -o drivers/i2c/busses/i2c-robotfuzz-osif.ko drivers/i2c/busses/i2c-robotfuzz-osif.o drivers/i2c/busses/i2c-robotfuzz-osif.mod.o ;  true

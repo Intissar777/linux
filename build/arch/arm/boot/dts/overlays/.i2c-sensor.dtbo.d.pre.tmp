@@ -1,0 +1,2 @@
+i2c-sensor-overlay.o: \
+ ../arch/arm/boot/dts/overlays/i2c-sensor-overlay.dts

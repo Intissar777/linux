@@ -1,0 +1,2 @@
+kernel/drivers/video/gen4-hats/spi-bcm2835_dma.ko
+kernel/drivers/video/gen4-hats/4d-hats.ko
